@@ -14,7 +14,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 #### <font style='color:red'> Video Links will expire in 2 days.</font>
 
-### Day1 Objectives(05-10-20):
+### Day1 Objectives(26-10-20):
 
 - 1.Installation of Python 3.6
 - 2.Python OOP'S
