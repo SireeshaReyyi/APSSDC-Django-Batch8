@@ -1,0 +1,79 @@
+Today Objectives:
+-----------------
+1.Python s/w installation(3.6 Verstion)
+2.Functions
+3.OOP's
+
+Functions:
+----------
+Group of related statments that performs a specific task
+
+1.BuildIn 
+2.User Defined
+
+syntax:
+-----------
+def fun_name():
+	.
+	.
+	.
+	.
+	.
+fun_name()
+
+Python OOP'S:
+--------------
+-> class
+-> object
+-> contructors
+-> Inheritance
+
+class:
+------
+-> It is a collection of variables and methods
+name='srinivas'
+num=10
+Methods:if function is existed inside the class then will call is a method.
+
+syntax:
+--------
+
+class class_name:
+	list of variables
+	list of methods
+
+
+Object:
+--------
+-> It is a instance of a class
+
+syntax:
+-------
+obj_name=class_name
+
+Constructors:
+--------------
+The Main Advantage of contructor is without using object we will call function
+
+class classname:
+	def __init__(self): #it is a constructor
+	def __init__(name,rollno,self):
+
+Task1:
+--------
+Create one class i.e UserDetails:
+name
+roll
+college
+show()
+
+
+
+	
+
+
+
+
+
+
+
