@@ -22,4 +22,4 @@ Everyone should compulsory follow the below instruction in order to get the atte
   - Object
   - Contructors
 
-### Video Link[ Click Here]()
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/7faad667f54beed47fa02672b53e81749381828aa822b69d7fdfb43066b8d138)
