@@ -1,0 +1,56 @@
+Today Objectives:
+------------------
+1.Inheritance
+2.Modules
+3.Packages
+
+Inheritance:
+--------------
+-> We are tring to Inheriting something from parent class to child class
+
+general format is : ChildClass(ParentClass):
+
+We have few diff types of Inheritances
+
+1.Single Level Inheritance
+-> In this there is a only one parent class and only one child class
+
+2.MultiLevel Inheritance
+-> One or more parents and one or more childs
+
+3.Mutiple Inheritance
+-> one or more parents and only one child
+
+4.Hybrid Inheritance
+-> It is Combination of all above means multilevel,multible,singlelevel
+
+
+
+Module:
+--------
+-> It is a .py file
+-> It contains Collection of Functions or Classes
+-> For Accessing the modules we are using import keyword
+ 	import MyModule
+	MyModule.ClassName.fun()
+	MyModule.Fun()
+
+Package:
+--------
+-> It is a Folder
+-> In This Folder Conatains group of modules
+for import the package few diff ways there
+
+	from package import module
+	from package import module,module1,module2
+	from package import *
+	from package.module import class
+	from package.module import function
+
+
+
+
+
+
+
+

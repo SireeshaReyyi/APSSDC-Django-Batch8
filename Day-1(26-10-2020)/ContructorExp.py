@@ -1,9 +1,13 @@
 class student:
-    def __init__(self,name):
+    def __init__(self,name,rollno,email):
         self.name=name
+        self.rollno=rollno
+        self.email=email
 
     def show(self):
-        return 'Hello',self.name
+        return {"Name":self.name,'Rollno':self.rollno,
+                'EMAIL':self.email}
+    
         
         
         
