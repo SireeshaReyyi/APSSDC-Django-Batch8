@@ -23,3 +23,11 @@ Everyone should compulsory follow the below instruction in order to get the atte
   - Contructors
 
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/7faad667f54beed47fa02672b53e81749381828aa822b69d7fdfb43066b8d138)
+____
+### Day 2 Objectives(27-10-20):
+
+- Inheritance
+- Modules
+- Packages
+
+### Video Link[ Click Here]
