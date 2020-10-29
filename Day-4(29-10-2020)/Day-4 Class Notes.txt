@@ -1,0 +1,39 @@
+Today Objectives
+------------------
+1.Url Buliding
+2.Dynamic Url Building
+3.HttpRequest and HttpResponse
+
+for change the port number
+
+	'python manage.py runserver 1234'
+
+Task:
+-----
+My Name is -------- and my rollno is ---------
+
+HttpRequest and HttpResponse:
+
+HttpRequest:
+------------
+For handling the data We have two diff methods
+1.GET --> if user sends request from url that the request type is get
+2.POST --> If request is comming from html form then the request type is post
+ 
+HttpResponse:
+-------------
+Based on User request it will give response 
+
+
+
+Django Templates:
+-----------------
+we need to create one folder with the name of templates in your app.
+
+to open html pages we will use render function
+
+
+
+
+
+
