@@ -31,3 +31,9 @@ ____
 - Packages
 
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/3a9298121742e378683858af06649c0695471aa34614854ae3e865bee27b27d4)
+____
+### Day 3 Objectives(28-10-20):
+- Intoduction on Django
+- MVT & MVC Architecture
+- Django Installation
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/0dc1d15554688d1a0c0b027dbeec3ff95f1ed8d60a6d384f21c7d4e617133701)
