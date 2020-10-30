@@ -48,7 +48,7 @@ ____
 ____
 ### Day 5 Objectives(30-10-20):
 - 1.Html basic tags
-  -- Lists in html
-  -- Table in html
+  - Lists in html
+  - Table in html
 - 2.Html Forms
 ### Video Link[ Click Here]
