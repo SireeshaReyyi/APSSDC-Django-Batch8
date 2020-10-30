@@ -45,3 +45,10 @@ ____
 - HttpRequest and Http Response
 - Django Templates
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/552b33da566f01cb636ec129f3d0a0a8220de8d51d7b8c8beacf13dcd8a7a280)
+____
+### Day 5 Objectives(30-10-20):
+- 1.Html basic tags
+  -- Lists in html
+  -- Table in html
+- 2.Html Forms
+### Video Link[ Click Here]
