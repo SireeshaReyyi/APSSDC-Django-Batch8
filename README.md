@@ -22,7 +22,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
   - Object
   - Contructors
 
-### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/7faad667f54beed47fa02672b53e81749381828aa822b69d7fdfb43066b8d138)
+
 ____
 ### Day 2 Objectives(27-10-20):
 
@@ -37,3 +37,11 @@ ____
 - MVT & MVC Architecture
 - Django Installation
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/0dc1d15554688d1a0c0b027dbeec3ff95f1ed8d60a6d384f21c7d4e617133701)
+____
+
+### Day 4 Objectives(29-10-20):
+- Url Building
+- Dynamic Url Mapping
+- HttpRequest and Http Response
+- Django Templates
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/552b33da566f01cb636ec129f3d0a0a8220de8d51d7b8c8beacf13dcd8a7a280)
