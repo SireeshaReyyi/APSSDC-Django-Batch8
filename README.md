@@ -30,7 +30,7 @@ ____
 - Modules
 - Packages
 
-### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/3a9298121742e378683858af06649c0695471aa34614854ae3e865bee27b27d4)
+### Video Link[ Click Here]
 ____
 ### Day 3 Objectives(28-10-20):
 - Intoduction on Django
@@ -51,4 +51,4 @@ ____
   - Lists in html
   - Table in html
 - 2.Html Forms
-### Video Link[ Click Here]
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/45bdd0472024e0367d0f5bad20301e69b21daf25b14a23a7d26288bc2b43a6fb)
