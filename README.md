@@ -30,7 +30,7 @@ ____
 - Modules
 - Packages
 
-### Video Link[ Click Here]
+
 ____
 ### Day 3 Objectives(28-10-20):
 - Intoduction on Django
@@ -52,3 +52,8 @@ ____
   - Table in html
 - 2.Html Forms
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/45bdd0472024e0367d0f5bad20301e69b21daf25b14a23a7d26288bc2b43a6fb)
+____
+### Day 5 Objectives(30-10-20):
+- DTL(Django Template Language)
+- Data Rendering from HTML to Views
+- Views to Html
