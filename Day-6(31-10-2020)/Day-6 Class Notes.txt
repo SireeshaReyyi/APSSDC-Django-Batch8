@@ -1,0 +1,59 @@
+Today Objectives:
+-----------------
+1.DTL(Django Template Language)
+2.Data rendering from html to views
+3.Views to Html
+
+DTL:
+-----
+It is used to write the conditions and looping statments and variables in Html Pages
+
+-> For printing values we have to use {{ name }}
+
+-> For Implementing logics like conditions and looping statements
+we have to use {% %}
+
+looping
+----------
+{% for i in data %}
+
+
+{% endfor %}
+
+Conditions
+------------
+{% if condition %}
+
+{% elif condition %}
+
+
+{% else %}
+
+{% endif %}
+
+Task:
+-----
+10x1=10
+10x2=20
+10x3=30
+.
+.
+.
+.
+.
+.
+10x10=100
+
+Task2:
+--------
+Create one login page
+Username:
+password:
+
+
+
+
+
+
+
+
