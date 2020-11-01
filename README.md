@@ -53,7 +53,8 @@ ____
 - 2.Html Forms
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/45bdd0472024e0367d0f5bad20301e69b21daf25b14a23a7d26288bc2b43a6fb)
 ____
-### Day 5 Objectives(30-10-20):
+### Day 6 Objectives(31-10-20):
 - DTL(Django Template Language)
 - Data Rendering from HTML to Views
 - Views to Html
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/e30e0b4c42bf4f09b5c87c89ccc3158a7300d33afec9a106cc1337b2b438c933)
