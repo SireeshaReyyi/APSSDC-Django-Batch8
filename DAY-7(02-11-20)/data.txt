@@ -1,0 +1,43 @@
+GoodEvening To All
+------------------
+The session start at 04:05PM
+
+To Day Agenda
+--------------
+CSS
+Cascading Stylesheets
+1. Inline css
+2. Internal css
+3. External css
+
+Selectors
+---------
+1.Element selector
+2.id selector
+3.class selector
+4.universial selector
+5.group selector
+
+
+selector: property: value
+
+
+style={color:'red"}
+
+
+style.css
+
+id="h"
+#
+
+class="login"
+
+.login{
+}
+
+
+universal selector
+
+*{
+
+}
