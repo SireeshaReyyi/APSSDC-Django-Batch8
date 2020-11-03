@@ -59,6 +59,11 @@ ____
 - Views to Html
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/e30e0b4c42bf4f09b5c87c89ccc3158a7300d33afec9a106cc1337b2b438c933)
 
+### Day 7 Objectives(02-11-20):
+- CSS File Handling
 
 
 ### Day 7 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/d06eb8f43a26b06ad71970ef2a062380d85bf0213d77219a975b5815183823aa)
+
+
+
