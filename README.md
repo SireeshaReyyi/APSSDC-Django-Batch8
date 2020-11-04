@@ -66,4 +66,9 @@ ____
 ### Day 7 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/d06eb8f43a26b06ad71970ef2a062380d85bf0213d77219a975b5815183823aa)
 
 
+### Day 8 Objectives(03-11-20):
+- Bootstrap File Handling
+
+
+### Day 8 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/57513f56fea5f67031848432ba50bb9cdbf00340adcb6c38c86b201110f5acc9)
 
