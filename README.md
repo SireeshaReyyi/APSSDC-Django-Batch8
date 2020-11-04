@@ -22,7 +22,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
   - Object
   - Contructors
 
-### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/7faad667f54beed47fa02672b53e81749381828aa822b69d7fdfb43066b8d138)
+
 ____
 ### Day 2 Objectives(27-10-20):
 
@@ -30,4 +30,45 @@ ____
 - Modules
 - Packages
 
-### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/3a9298121742e378683858af06649c0695471aa34614854ae3e865bee27b27d4)
+
+____
+### Day 3 Objectives(28-10-20):
+- Intoduction on Django
+- MVT & MVC Architecture
+- Django Installation
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/0dc1d15554688d1a0c0b027dbeec3ff95f1ed8d60a6d384f21c7d4e617133701)
+____
+
+### Day 4 Objectives(29-10-20):
+- Url Building
+- Dynamic Url Mapping
+- HttpRequest and Http Response
+- Django Templates
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/552b33da566f01cb636ec129f3d0a0a8220de8d51d7b8c8beacf13dcd8a7a280)
+____
+### Day 5 Objectives(30-10-20):
+- 1.Html basic tags
+  - Lists in html
+  - Table in html
+- 2.Html Forms
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/45bdd0472024e0367d0f5bad20301e69b21daf25b14a23a7d26288bc2b43a6fb)
+____
+### Day 6 Objectives(31-10-20):
+- DTL(Django Template Language)
+- Data Rendering from HTML to Views
+- Views to Html
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/e30e0b4c42bf4f09b5c87c89ccc3158a7300d33afec9a106cc1337b2b438c933)
+
+### Day 7 Objectives(02-11-20):
+- CSS File Handling
+
+
+### Day 7 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/d06eb8f43a26b06ad71970ef2a062380d85bf0213d77219a975b5815183823aa)
+
+
+### Day 8 Objectives(03-11-20):
+- Bootstrap File Handling
+
+
+### Day 8 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/57513f56fea5f67031848432ba50bb9cdbf00340adcb6c38c86b201110f5acc9)
+

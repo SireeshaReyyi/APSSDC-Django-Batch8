@@ -1,0 +1,7 @@
+Today Objectives:
+------------------
+1.Html basic tags
+  ->Lists in html
+  ->Table in html
+2.Html Forms
+

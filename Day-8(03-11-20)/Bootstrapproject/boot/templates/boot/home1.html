@@ -1,0 +1,38 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>::Home1</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+	<script type="text/javascript" href="{% static 'js/bootstrap.min.js'%}"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+  <a class="navbar-brand" href="#">MyProject</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'home1' %}">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'register'%}">Register</a>
+      </li>    
+    </ul>
+  </div>  
+</nav>
+	<div class="jumbotron">
+		<h1 class="text-primary">Welcome to homepage</h1>
+		<h2 class="text-info">Welcome to Django</h2>
+		<h3 class="text-warning">Welcome to Python</h3>
+		<h4 class="text-success">Welcome to AI</h4>
+		<h5 class="text-dark">Welcome to ML</h5>
+		<h6 class="text-danger"> welcome to DA</h6>
+	</div>
+</body>
+</html>
