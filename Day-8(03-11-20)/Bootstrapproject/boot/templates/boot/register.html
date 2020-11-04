@@ -1,0 +1,59 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>::Home1</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+	<script type="text/javascript" href="{% static 'js/bootstrap.min.js'%}"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+  <a class="navbar-brand" href="#">MyProject</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'home1' %}">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'register'%}">Register</a>
+      </li>    
+    </ul>
+  </div>  
+</nav>
+	<div class="container col-md-3 mt-5 card card-body bg-warning">
+		<h1 class="text-center text-danger alert alert-success">RegisterForm</h1>
+
+		<form>
+			<div>
+				<label for="uname">UserName*</label>
+				<input type="text" name="uname" placeholder="Enter uname" id="uname" class="form-control">
+			</div>
+			<div>
+				<label for="email">Email*</label>
+				<input type="email" name="email" placeholder="Enter Email" id="email" class="form-control">
+			</div>
+			<div>
+				<label for="pwd">Password*</label>
+				<input type="password" name="pwd" placeholder="Enter ****" id="pwd" class="form-control">
+			</div>
+			<div>
+				<label for="dob">DOB*</label>
+				<input type="date" name="dob" placeholder="Enter dob" id="dob" class="form-control">
+			</div>
+
+			<div class="text-center">
+				<input type="submit" valu1e="Register" class="btn btn-outline-primary btn-lg mt-3">
+			</div>
+
+		</form>
+		
+	</div>
+</body>
