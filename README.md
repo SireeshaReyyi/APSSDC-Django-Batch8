@@ -58,17 +58,33 @@ ____
 - Data Rendering from HTML to Views
 - Views to Html
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/e30e0b4c42bf4f09b5c87c89ccc3158a7300d33afec9a106cc1337b2b438c933)
-
+___________________
 ### Day 7 Objectives(02-11-20):
 - CSS File Handling
 
 
 ### Day 7 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/d06eb8f43a26b06ad71970ef2a062380d85bf0213d77219a975b5815183823aa)
 
-
+______________________
 ### Day 8 Objectives(03-11-20):
 - Bootstrap File Handling
 
 
 ### Day 8 Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/57513f56fea5f67031848432ba50bb9cdbf00340adcb6c38c86b201110f5acc9)
 
+______________
+### Day 9(04-11-20)
+#### Objectives
+- Model in Django
+- ORM
+- Superuser Creation
+- ORM Queries
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/dd46c5e72574f1d7a9d91a724aeb454c75cc0b2af80ba0490f06e06e6691490a)
+___________
+### Day 10(05-11-20)
+#### Objectives 
+- CRUD Operations
+- Template Blocks
+### Video Link[Click Here]()
+____________
+### New Meetin Id: 993-581-389
