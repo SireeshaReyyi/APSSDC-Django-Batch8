@@ -81,3 +81,4 @@ ______________
 - ORM Queries
 ### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/dd46c5e72574f1d7a9d91a724aeb454c75cc0b2af80ba0490f06e06e6691490a)
 ___________
+### New Meetin Id: 993-581-389
