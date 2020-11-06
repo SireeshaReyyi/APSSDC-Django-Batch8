@@ -85,6 +85,6 @@ ___________
 #### Objectives 
 - CRUD Operations
 - Template Blocks
-### Video Link[Click Here]()
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/519fcddd526d3adccfe59621e335ce3cdec7d35e5c37ff2ece4e39d3b0d5f0f6)
 ____________
 ### New Meetin Id: 993-581-389
