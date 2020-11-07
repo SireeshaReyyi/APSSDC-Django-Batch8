@@ -1,0 +1,41 @@
+{% extends 'student/index.html' %}
+
+{% block title %}
+Library
+{% endblock %}
+
+
+
+{% block content %}
+
+{% if messages %}
+	{% for msg in messages %}
+		<div class='alert alert-{{msg.tags}}'>{{msg}}</div>
+	{% endfor %}
+{% endif %}
+
+
+
+<div class='container'>
+	<table class='table'>
+		<tr>
+			<th>Book Name</th>
+			<th>Book Number</th>
+			<th>Author</th>
+			<th>Department</th>
+			<th>Publication Date</th>
+		</tr>
+		{% for book in books %}
+		<tr>
+			<td>{{book.book_name}}</td>
+			<td>{{book.book_no}}</td>
+			<td>{{book.author}}</td>
+			<td>{{book.department}}</td>
+			<td>{{book.publication_date}}</td>
+		</tr>
+		{% endfor %}
+	</table>
+	
+</div>
+
+{% endblock %}
