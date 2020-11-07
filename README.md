@@ -88,3 +88,11 @@ ___________
 ### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/519fcddd526d3adccfe59621e335ce3cdec7d35e5c37ff2ece4e39d3b0d5f0f6)
 ____________
 ### New Meetin Id: 993-581-389
+__________
+### Day 11(06-11-20)
+#### Objectives 
+- ModelForm
+- CRUD Operations using ModelForm
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/423ff1b7eb60745b5e6c90178d7617232a6b3e02be14a1012d9fcefb5d192c63)
+_____________
+
