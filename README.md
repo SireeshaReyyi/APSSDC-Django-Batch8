@@ -95,4 +95,11 @@ __________
 - CRUD Operations using ModelForm
 ### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/423ff1b7eb60745b5e6c90178d7617232a6b3e02be14a1012d9fcefb5d192c63)
 _____________
+### Day 12(07-11-20)
+#### Objectives 
+- Form Validation
+- Messages
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/205243ef54c53d80fd917e3034101ff3a2a934dc0fd32124c7199c6960c97cce)
+_____________
+
 
