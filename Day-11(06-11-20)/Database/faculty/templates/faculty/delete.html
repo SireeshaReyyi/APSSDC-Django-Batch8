@@ -1,0 +1,15 @@
+{% extends 'student/index.html' %}
+{% block title %}
+
+Faculty Delete
+
+{% endblock %}
+
+{% block content %}
+<div class='container' align=center>
+	<h4>Faculty Delete</h4>
+	<p>Are you sure to delete the record ? </p>
+	<button class='btn btn-danger mr-5'><a class='text-light' href="{% url 'conformDelete' data.id %}">Yes</a></button>
+	<button class='btn btn-secondary'><a class='text-light' href="{% url 'f_data' %}">No</a></button>
+</div>
+{% endblock %}

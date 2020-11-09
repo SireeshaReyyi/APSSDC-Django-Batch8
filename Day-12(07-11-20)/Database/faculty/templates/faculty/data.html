@@ -1,0 +1,34 @@
+{% extends 'student/index.html' %}
+{% block title %}
+
+Faculty Data
+
+{% endblock %}
+
+{% block content %}
+<div class='container'>
+	<table class='table'>
+		<tr class='text-primary'>
+			<th>First Name</th>
+			<th>Last Name</th>
+			<th>Id</th>
+			<th>Department</th>
+			<th>Email</th>
+			<th>Phone Number</th>
+		</tr>
+		{% for i in data %}
+		<tr>
+			<td>{{i.firstname}}</td>
+			<td>{{i.lastname}}</td>
+			<td>{{i.facultyid}}</td>
+			<td>{{i.department}}</td>
+			<td>{{i.email}}</td>
+			<td>{{i.phone}}</td>
+			<td><a class='btn btn-primary' href="{% url 'f_edit' i.id %}">Edit</a></td>
+			<td><a class='btn btn-danger' href="{% url 'f_delete' i.id %}">Delete</a></td>
+		</tr>
+		{% endfor %}
+	</table>
+</div>
+
+{% endblock %}

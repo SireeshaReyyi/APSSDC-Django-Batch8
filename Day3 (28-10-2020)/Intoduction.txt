@@ -1,0 +1,66 @@
+Date: 28-10-2020
+
+
+Agenda:
+---------
+
+Django Introduction:
+
+-> Featues of Django:
+=======================
+
+Free and Open Source
+Full stack framework
+Secure
+Maintainable
+Scalable
+
+Architecture of Django:
+---------------------------
+
+MVC - Model View Controller
+
+Model - Responsible for Database actions
+
+View - Responsible for User Interface
+
+Controller -  Responsible for Request-Response cycle
+
+client - server
+
+-> Django follows MVT architecture:
+
+MVT - Model View Template
+
+	                MVC               MVT
+
+Database                Model            Model
+User Interface          View             Template
+Controller              Controller       View
+
+
+
+Django Installation:
+--------------------
+-> pip install django
+-> version check : django-admin --version
+
+Edior:
+--------
+Sublime text
+Visual studio code
+pycharm
+atom
+....
+
+
+Project Creation:
+--------------------
+-> django-admin startproject project_name
+
+App Creation:
+-------------
+-> python manage.py startapp app_name
+-> django-admin startapp app_name
+
+=> python manage.py runserver

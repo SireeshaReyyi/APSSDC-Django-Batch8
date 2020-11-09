@@ -1,0 +1,15 @@
+Objectives:
+=============
+
+->Form Validation:
+   --> is_valid()
+
+->Messages:
+	-> from django.contrib import messages
+
+success
+info
+warning
+debug
+error
+

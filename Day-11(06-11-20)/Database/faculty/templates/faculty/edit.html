@@ -1,0 +1,20 @@
+{% extends 'student/index.html' %}
+{% block title %}
+
+Faculty Update Form
+
+{% endblock %}
+
+{% block content %}
+<div class='container'>
+	<form method='POST' action="{% url 'f_edit' id %}">
+		{% csrf_token %}
+		<h2>Faculty Update Form</h2>
+		<table>
+		{{form.as_table}}
+		</table>
+		<button type='submit' class='btn btn-info'>Update</button>
+	</form>
+</div>
+
+{% endblock %}

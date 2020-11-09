@@ -1,0 +1,69 @@
+Concepts:
+=========
+
+Models in Django:
+--------------------------------
+
+-->migrations:
+  
+python manage.py makemigrations -> to create an interface file
+python manage.py migrate -> to convert our model into table
+
+SuperUser Creation:
+--------------------------------
+superuser/admin
+
+--> python manage.py migrate
+--> python manage.py createsuperuser
+
+ORM:
+-------
+Object Relational Mapping
+
+ORM Queries:
+--------------
+CRUD operations:
+
+Create, Retrieve, Update, Delete
+
+-> python manage.py shell
+-> import model
+
+CREATE:
+--------
+1.create() -> modelname.objects.create(field=value)
+2.save() 
+	obj = modelname(field=value)
+	obj.save()
+
+RETRIEVE:
+----------
+1.modelname.objects.get(field=value) -> to get a single record
+2.modelname.objects.all() --> will return all the records present in the table
+3.modelname.objects.filter(field=value) -> to get multiple records
+4.modelname.objects.values("field") -> to retrieve an enitre column
+5.modelname.objects.all()[:n]
+6.modelname.objects.order_by()
+
+EDIT/UPDATE:
+-----
+1.update() -> modelname.objects.filter(field=value).update()
+2.save()
+
+
+DELETE:
+---------
+delete() -> modelname.objects.get(field=value).delete()
+
+
+
+
+
+
+
+
+
+
+
+
+
