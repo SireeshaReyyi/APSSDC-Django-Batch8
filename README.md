@@ -102,4 +102,12 @@ _____________
 ### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/205243ef54c53d80fd917e3034101ff3a2a934dc0fd32124c7199c6960c97cce)
 _____________
 
+### Day 13(09-11-20)
+#### Objectives 
+- User Registration
+- Custom Models
+- UI Design
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/6eca2312520c28cabecb808e2b0ad220032bf347eae4acc9c94143dd3979833e)
+_____________
+
 
