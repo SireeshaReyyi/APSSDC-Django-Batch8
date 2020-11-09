@@ -1,0 +1,55 @@
+GoodEvening To All
+
+
+ToDay Agenda
+------------
+1.TeplateBlocks
+
+base.html
+{% extends 'base.html'%}
+{% block content%}
+{% endblock %}
+2.UI Design
+
+3.UserReistration with models
+
+django provides existing table auth_user table
+first_name
+last_name
+username,
+email
+password
+is_active
+is_staff --no rights
+date_joined--
+last_joined--
+
+first_name
+last_name
+username,
+email
+password
+image
+
+4.CustomTable Creation userprofile
+
+One-To-One Relationship ForeignKey
+One-To-Many Relationship
+Many-To-One Relationship
+Many-To-Many Relationship
+
+image
+gender
+dob
+mobileno
+address
+
+CharField()
+IntegerField()
+DateField()
+emailField()
+FileField()
+ImageField()
+TextField()
+
+pip install pillow
