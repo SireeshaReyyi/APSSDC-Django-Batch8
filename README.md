@@ -111,4 +111,14 @@ _____________
 ### Video Link2[Click Here](https://transcripts.gotomeeting.com/#/s/6eca2312520c28cabecb808e2b0ad220032bf347eae4acc9c94143dd3979833e)
 _____________
 
+### Day 14(10-11-20)
+#### Objectives 
+- User Registration
+- FileHandling
+- UI Design
+
+### Video Link1[Click Here](https://transcripts.gotomeeting.com/#/s/766e8dc8ee2f189d4237e57d5ade95f295895ee3e18dddcbc14c3e4828845330)
+
+_____________
+
 
