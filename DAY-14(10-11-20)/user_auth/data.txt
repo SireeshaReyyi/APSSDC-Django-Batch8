@@ -1,0 +1,32 @@
+GoodEvening To All
+------------------
+(Day-13)ToDay Agenda
+------------
+1.TeplateBlocks
+{% extends 'base.html'%}
+{% block content%}
+{% endblock %}
+2.UI Design
+3.UserReistration with models
+4.CustomTable Creation userprofile
+
+GoodEvening To All
+------------------
+
+Day-14 ToDay Agenda
+-------------------
+1.File Handling with MediaFiles
+
+in setting.py at last
+
+MEDIA_ROOT=os.path.join(BASE_DIR,'accounts/static/images')	
+MEDIA_URL='/images/'
+
+MEDIA_ROOT=os.path.join(BASE_DIR,'mediafiles')
+MEDIA_URL='/mediafiles/'
+
+2.User Registration
+3.Register,Login Form Creation
+4.User Auhentication
+
+
