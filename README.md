@@ -121,4 +121,14 @@ _____________
 
 _____________
 
+### Day 15(11-11-20)
+#### Objectives 
+- User Login,Logout
+- Mail Sending
+- ChangePassword
+- UI Design
+
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/64891269cbc46bcdce4ea3655c25f9fe38c345604981b3cc7b557ae4fc106d78)
+
+_____________
 
