@@ -132,3 +132,22 @@ _____________
 
 _____________
 
+### Day 16(12-11-20)
+#### Objectives 
+- User Profile
+- Update Profile
+- UI Design
+
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/6e358c18bf219f9b354896e48086eccdbfa1850b5d6e75ac9c755917ea10afb0)
+
+_____________
+
+### Day 17(13-11-20)
+#### Objectives 
+-MysqlConnection
+- UI Design
+
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/b3193a1d0a58a1f03429a7f21070ff68943e8c44ca08af701bb7fc5d443352aa)
+
+_____________
+
