@@ -1,0 +1,55 @@
+{% extends  'accounts/base.html' %}
+{% block content %}
+
+<div class="container card card-body bg-info col-md-6 mt-3">
+	<h1 class="alert alert-info text-center"> Registration-Form</h1>
+
+	<form action="#" method="POST" enctype="multipart/form-data">
+		{% csrf_token %}
+
+		<div class="form-row">
+		
+			<div class="form-group col-md-4">
+				<label for="firstname">First_Name</label>
+				<input type="text" name="first_name" placeholder="enter Fname" class="form-control" id="firstname">
+			</div>
+
+			<div class="form-group col-md-4">
+				<label for="lastname">Last_Name</label>
+				<input type="text" name="last_name" placeholder="enter Lname" class="form-control" id="lastname">
+			</div>
+
+			<div class="form-group col-md-4">
+				<label for="username">UserName</label>
+				<input type="text" name="username" placeholder="enter uname" class="form-control" id="username">
+			</div>
+		</div>
+
+		<div class="form-row">
+			<div class="form-group col-md-4">
+				<label for="em">EmailId</label>
+				<input type="email" name="email" placeholder="enter Email" class="form-control" id="em">
+			</div>
+
+			<div class="form-group col-md-4">
+				<label for="img">Image</label>
+				<input type="file" name="image" class="form-control" id="img">
+			</div>
+
+
+			<div class="form-group  col-md-4">
+				<label for="pwd">Password</label>
+				<input type=password name="password" placeholder="enter ******" class="form-control" id="pwd">
+			</div>
+		</div>
+
+		<div class="text-center">
+			<input type="submit" value="Register" class="btn btn-outline-danger btn-lg">
+		</div>
+	</form>
+</div>
+
+
+
+
+{% endblock content %}

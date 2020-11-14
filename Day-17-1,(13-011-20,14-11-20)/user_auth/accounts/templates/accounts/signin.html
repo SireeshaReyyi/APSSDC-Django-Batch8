@@ -1,0 +1,19 @@
+{% extends 'accounts/base.html' %}
+{% block content %}
+<div class="container mt-3 card card-body col-md-4" style="background-color: lightgreen;">
+	<h1 class="alert alert-primary text-center">Login_Form</h1>
+	<form action="#" method="POST">
+		{% csrf_token %}
+
+			<label for="uname">UserName*</label>
+			<input type="text" name="uname" placeholder="enter uname" class="form-control" id="uname">
+
+			<label for="pwd">Password*</label>
+			<input type="password" name="pswd" placeholder="enter***" class="form-control" id="pwd">
+
+			<div class="text-center">
+				<input type="submit" value="Login" class="btn btn-outline-primary btn-lg mt-3">
+			</div>
+	</form>
+</div>
+{% endblock %}

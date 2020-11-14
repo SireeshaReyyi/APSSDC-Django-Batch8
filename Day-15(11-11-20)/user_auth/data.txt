@@ -1,0 +1,73 @@
+GoodEvening To All
+------------------
+(Day-13)ToDay Agenda
+------------
+1.TeplateBlocks
+{% extends 'base.html'%}
+{% block content%}
+{% endblock %}
+2.UI Design
+3.UserReistration with models
+4.CustomTable Creation userprofile
+
+GoodEvening To All
+------------------
+
+Day-14 ToDay Agenda
+-------------------
+1.File Handling with MediaFiles
+
+in setting.py at last
+
+MEDIA_ROOT=os.path.join(BASE_DIR,'accounts/static/images')	
+MEDIA_URL='/images/'
+
+MEDIA_ROOT=os.path.join(BASE_DIR,'mediafiles')
+MEDIA_URL='/mediafiles/'
+2.User Registration
+3.Register,Login Form Creation
+4.User Auhentication
+
+GoodEvening To All
+------------------
+Day-15 ToDayAgenda
+1.UserLogin
+2.User Logout
+3.Mail sending
+4.ChangePassword
+
+{% if user.is_authenicated %}
+profile
+changepassword
+logout
+
+register
+
+Login
+{% endif%}
+
+EMAIL_USE_TLS=True
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_PORT=587
+EMAIL_HOST_USER="YOURMAIL@GMAIL.COM"
+EMAIL_HOST_PASSWORD="YOURPASSWORD"
+send_mail(sub,body,sender,reciver)
+
+
+email unique
+password apssdc@123
+
+changepassword
+
+oldpassword apssdc@123
+newpassword sai@12345
+comorm password sai@12345
+
+forgotpassword
+
+asking email sai@gmail.com
+
+http:127.0.0.1:8000/changepassword
+newpassword sairam@12345
+comorm password sairam@12345
+
