@@ -111,4 +111,43 @@ _____________
 ### Video Link2[Click Here](https://transcripts.gotomeeting.com/#/s/6eca2312520c28cabecb808e2b0ad220032bf347eae4acc9c94143dd3979833e)
 _____________
 
+### Day 14(10-11-20)
+#### Objectives 
+- User Registration
+- FileHandling
+- UI Design
+
+### Video Link1[Click Here](https://transcripts.gotomeeting.com/#/s/766e8dc8ee2f189d4237e57d5ade95f295895ee3e18dddcbc14c3e4828845330)
+
+_____________
+
+### Day 15(11-11-20)
+#### Objectives 
+- User Login,Logout
+- Mail Sending
+- ChangePassword
+- UI Design
+
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/64891269cbc46bcdce4ea3655c25f9fe38c345604981b3cc7b557ae4fc106d78)
+
+_____________
+
+### Day 16(12-11-20)
+#### Objectives 
+- User Profile
+- Update Profile
+- UI Design
+
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/6e358c18bf219f9b354896e48086eccdbfa1850b5d6e75ac9c755917ea10afb0)
+
+_____________
+
+### Day 17(13-11-20)
+#### Objectives 
+-MysqlConnection
+- UI Design
+
+### Video Link[Click Here](https://transcripts.gotomeeting.com/#/s/b3193a1d0a58a1f03429a7f21070ff68943e8c44ca08af701bb7fc5d443352aa)
+
+_____________
 
